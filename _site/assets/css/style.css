@@ -790,5 +790,11 @@ h1, h2, h3, h4, h5, h6 {
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     font-family: 'Walter Turncoat', cursive; }
 
-p, a, span {
+p, a, span, dt, th, strong {
+  font-family: 'Slabo 13px', serif; }
+
+header nav li {
+  font-family: 'Slabo 13px', serif; }
+
+section #title p, section #title span, section #title .credits, section #title a {
   font-family: 'Slabo 13px', serif; }
