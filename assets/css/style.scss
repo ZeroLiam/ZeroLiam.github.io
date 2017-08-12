@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Slabo+13px|Walter+Turncoat&subset=latin-ext');
+
+body{
+  background-image: url(./../images/bga.png);
+    min-height: 676px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Walter Turncoat', cursive;
+
+  a{
+    font-family: 'Walter Turncoat', cursive;
+  }
+}
+
+p, a, span{
+  font-family: 'Slabo 13px', serif;
+}

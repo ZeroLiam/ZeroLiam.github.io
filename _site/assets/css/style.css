@@ -5,6 +5,7 @@
 /*
  * Corrects block display not defined in IE6/7/8/9 & FF3
  */
+@import url("https://fonts.googleapis.com/css?family=Slabo+13px|Walter+Turncoat&subset=latin-ext");
 article,
 aside,
 details,
@@ -780,3 +781,14 @@ section {
 
   nav {
     display: none; } }
+body {
+  background-image: url(./../images/bga.png);
+  min-height: 676px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Walter Turncoat', cursive; }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-family: 'Walter Turncoat', cursive; }
+
+p, a, span {
+  font-family: 'Slabo 13px', serif; }
