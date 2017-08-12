@@ -17,6 +17,22 @@ h1,h2,h3,h4,h5,h6{
   }
 }
 
-p, a, span{
+p, a, span, dt, th, strong{
   font-family: 'Slabo 13px', serif;
+}
+
+header{
+  nav{
+    li{
+      font-family: 'Slabo 13px', serif;
+    }
+  }
+}
+
+section{
+  #title{
+    p, span, .credits, a{
+      font-family: 'Slabo 13px', serif;
+    }
+  }
 }

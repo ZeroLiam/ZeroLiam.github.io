@@ -1,0 +1,19 @@
+- name: Work
+  link: /work
+  show: yes
+
+- name: Blog
+  link: /blog
+  show: yes
+
+- name: Research
+  link: /uni
+  show: no
+
+- name: About
+  link: /about
+  show: yes
+
+- name: Contact
+  link: /contact
+  show: yes
