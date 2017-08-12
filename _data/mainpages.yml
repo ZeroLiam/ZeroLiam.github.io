@@ -1,3 +1,7 @@
+- name: Home
+  link: /
+  show: yes
+
 - name: Work
   link: /work
   show: yes

@@ -793,8 +793,21 @@ h1, h2, h3, h4, h5, h6 {
 p, a, span, dt, th, strong {
   font-family: 'Slabo 13px', serif; }
 
-header nav li {
-  font-family: 'Slabo 13px', serif; }
+#header nav {
+  background: transparent !important; }
+  #header nav li {
+    font-family: 'Slabo 13px', serif;
+    margin-right: 20px; }
+    #header nav li a {
+      background: transparent;
+      border: none;
+      box-shadow: none;
+      opacity: 0.5; }
+      #header nav li a:hover {
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        opacity: 1; }
 
 section #title p, section #title span, section #title .credits, section #title a {
   font-family: 'Slabo 13px', serif; }
