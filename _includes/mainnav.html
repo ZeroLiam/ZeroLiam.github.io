@@ -1,5 +1,5 @@
 {% for page in include.links %}
-{% if page.show == "yes" %}
-{{ page.name }}
-{% endif %}
+  {% if page.show == true %}
+    <li class="normal-li"><a class="navbar-a" href="{{ page.link }}">{{ page.name }}</a></li>
+  {% endif %}
 {% endfor %}
