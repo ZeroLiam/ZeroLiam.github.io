@@ -21,6 +21,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zeroliam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  ZeroLiam
+github_url: "https://github.com/ZeroLiam"
+
+#GitHub vars
+site.github.owner_name: ZeroLiam
+site.github.owner_url: "https://github.com/ZeroLiam"
 
 # Build settings
 name: ZeroLiam can code
