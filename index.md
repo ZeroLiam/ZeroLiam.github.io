@@ -5,4 +5,4 @@
 layout: default
 ---
 
-Oh I found my theme lol
+# What's up! Let me show you some pretty cool stuff

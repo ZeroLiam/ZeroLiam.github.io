@@ -23,6 +23,7 @@ twitter_username:
 github_username:  ZeroLiam
 
 # Build settings
+name: ZeroLiam can code
 markdown: kramdown
 theme: jekyll-theme-midnight
 plugins:
