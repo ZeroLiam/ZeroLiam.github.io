@@ -811,3 +811,8 @@ p, a, span, dt, th, strong {
 
 section #title p, section #title span, section #title .credits, section #title a {
   font-family: 'Slabo 13px', serif; }
+
+.contentPortfolioWrap {
+  background: rgba(255, 255, 255, 0.1);
+  position: relative;
+  padding: 30px; }
