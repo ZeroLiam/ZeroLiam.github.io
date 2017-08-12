@@ -5,7 +5,7 @@
 /*
  * Corrects block display not defined in IE6/7/8/9 & FF3
  */
-@import url("https://fonts.googleapis.com/css?family=Slabo+13px|Walter+Turncoat&subset=latin-ext");
+@import url("https://fonts.googleapis.com/css?family=Slabo+13px|Montserrat:100|Walter+Turncoat&subset=latin-ext");
 article,
 aside,
 details,
@@ -796,9 +796,9 @@ p, a, span, dt, th, strong {
 #header nav {
   background: transparent !important; }
   #header nav li {
-    font-family: 'Slabo 13px', serif;
     margin-right: 20px; }
     #header nav li a {
+      font-family: 'Slabo 13px', serif;
       background: transparent;
       border: none;
       box-shadow: none;

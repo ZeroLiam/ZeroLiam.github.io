@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Slabo+13px|Walter+Turncoat&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Slabo+13px|Montserrat:100|Walter+Turncoat&subset=latin-ext');
 
 body{
   background-image: url(./../images/bga.png);
@@ -25,9 +25,9 @@ p, a, span, dt, th, strong{
   nav{
     background: transparent !important;
     li{
-      font-family: 'Slabo 13px', serif;
       margin-right: 20px;
       a{
+        font-family: 'Slabo 13px', serif;
         background: transparent;
         border: none;
         box-shadow: none;
