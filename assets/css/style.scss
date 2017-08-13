@@ -9,6 +9,13 @@ body{
     min-height: 676px;
 }
 
+.wrapper {
+    max-width: 732px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 20px;
+}
+
 h1,h2,h3,h4,h5,h6{
   font-family: 'Walter Turncoat', cursive;
 
@@ -44,6 +51,11 @@ p, a, span, dt, th, strong{
 }
 
 section{
+    max-width: 732px;
+    padding: 30px 0px 50px 0px;
+    margin: 20px 0;
+    margin-top: 70px;
+
   #title{
     p, span, .credits, a{
       font-family: 'Slabo 13px', serif;
@@ -56,4 +68,26 @@ section{
   background: rgba(255,255,255,0.1);
   position: relative;
   padding: 30px;
+}
+
+.gallery-block{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .block-thumb{
+    vertical-align: bottom;
+    border: 1px solid rgba(255,255,255,0.1);
+    margin: 4px;
+    padding: 4px;
+    justify-content: center;
+    width: 250px;
+    height: 200px;
+
+    .thumb-title{
+      position: relative;
+      top: 150px;
+    }
+  }
 }

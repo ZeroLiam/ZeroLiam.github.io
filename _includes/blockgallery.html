@@ -1,0 +1,8 @@
+{% for page in include.portfolio %}
+  {% if page.show == true and page.type == include.type %}
+    <div class="block-thumb">
+
+      <p class="thumb-title">{{ page.name }}</p>
+    </div>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,136 @@
+- name: Dreamnotes Loader
+  link: /work/dreamnotes
+  github_url: ""
+  type: work
+  level: internship
+  show: yes
+  description: >
+     Script made in JSX for Adobe After Effects.
+     This was presented as the final project for my internship in the Student Associate Program at the Madison Square Garden (MSG).
+  img: "./../assets/images/projects/dreamnotes.png"
+  frameworks: "AfterEffects, JSX, JavaScript"
+  keywords: "Motion Graphics, past jobs, Madison Square Garden, MSG, Gardenvision"
+
+- name: Indy Tix (New York Knicks) 2014
+  link: /work/indytix2014
+  github_url: ""
+  type: work
+  level: internship
+  show: yes
+  description: >
+     Indy Tix design for the 2014 season of the New York Knicks.
+     Made during my internship on Madison Square Garden (MSG).
+  img: "./../assets/images/projects/indytix.png"
+  frameworks: "Photoshop, AfterEffects"
+  keywords: "Motion Graphics, Design, past jobs, Madison Square Garden, MSG, Gardenvision"
+
+- name: Game Ball Delivery (New York Knicks) 2014
+  link: /work/gameball2014
+  github_url: ""
+  type: work
+  level: internship
+  show: yes
+  description: >
+     Simple AfterEffects animations for the game ball delivery during the New York Knicks games.
+  img: "./../assets/images/projects/gameball.png"
+  frameworks: "Photoshop, AfterEffects"
+  keywords: "Motion Graphics, Design, past jobs, Madison Square Garden, MSG, Gardenvision"
+
+- name: Photo-Comp (New York Liberty) 2014
+  link: /work/photocomp-nyliberty2014
+  github_url: ""
+  type: work
+  level: internship
+  show: yes
+  description: >
+     As soon as Natasha Lacy joined the New York Liberty on 2014, an action shot was needed to feature her in the videos at MSG. Since Lacy did not had an official photoshoot at that time, I was asked to make a composition of an action shot of her over another player.
+     In here I show simple Photoshop basics, but hey, that action shoot was perfect for the promo that came later!
+  img: "./../assets/images/projects/photocomp.png"
+  frameworks: "Photoshop"
+  keywords: "Design, Photo-Comp, past jobs, Madison Square Garden, MSG, Gardenvision"
+
+- name: Publishers Management
+  link: /work/pubmgtm
+  github_url: ""
+  type: work
+  level: Junior Developer
+  show: yes
+  description: >
+     A simple ReactJS table that organizes and shows publishers. Feeds from a MongoDB.
+  img: "./../assets/images/projects/pubm.png"
+  frameworks: "ReactJS, JavaScript, CSS, HTML"
+  keywords: "Front-End Development, past jobs, Padsquad"
+
+- name: Chameleon Shoes
+  link: /work/chameleon
+  github_url: ""
+  type: uni
+  level: Humanities
+  show: yes
+  description: >
+     Product Design. Mock Product for a Microeconomics class.
+  img: "./../assets/images/projects/chameleon.png"
+  frameworks: "Photoshop, AfterEffects"
+  keywords: "Motion Graphics, Design, uni, undergrad, bachelors, random"
+
+- name: bookSelf
+  link: /work/bookself
+  github_url: ""
+  type: uni
+  level: Senior Project
+  show: yes
+  description: >
+     Undergrad thesis project. Book inventory mobile app for Android devices.
+     UX/UI design, front-end coding.
+  img: "./../assets/images/projects/bookself.png"
+  frameworks: "Android, Java"
+  keywords: "UX/UI Design, uni, undergrad, bachelors, thesis"
+
+- name: Hello Android
+  link: /work/mis-1-helloandroid
+  github_url: "https://github.com/ZeroLiam/mis-2017-exercise-1-helloandroid/tree/ramirez-sakib-ex1"
+  type: uni
+  level: Mobile Information Systems
+  show: yes
+  description: >
+        Hello World for Android, including a rendering of a website from an url that the user inputs.
+  img: "./../assets/images/projects/mis1.png"
+  frameworks: "Android, Java"
+  keywords: "MIS, Mobile Information Systems, homework project, homework, homework 1, uni, masters"
+
+- name: Maps and Polygons
+  link: /work/mis-2-mapsandpolygons
+  github_url: "https://github.com/TeamFlamingCorgis/mis-2017-exercise-2-maps-polygons/tree/ramirez-sakib-ex2"
+  type: uni
+  level: Mobile Information Systems
+  show: yes
+  description: >
+        Practice that shows how to deal with Google Maps and make polygons on it. Uses resources for calculation and positioning.
+  img: "./../assets/images/projects/mis2.png"
+  frameworks: "Android, Java"
+  keywords: "MIS, Mobile Information Systems, homework project, homework, homework 2, uni, masters"
+
+- name: Mution (Sensors Context)
+  link: /work/mis-3-sensorscontext
+  github_url: "https://github.com/TeamFlamingCorgis/mis-2017-exercise-3-sensors-context/tree/ramirez-sakib-ex3"
+  type: uni
+  level: Mobile Information Systems
+  show: yes
+  description: >
+        Practice that uses some of the sensors on Android, like the accelerometer.
+  img: "./../assets/images/projects/mis3.png"
+  frameworks: "Android, Java"
+  keywords: "MIS, Mobile Information Systems, homework project, homework, homework 3, uni, masters"
+
+- name: Phone As Pixel
+  link: /work/pap
+  github_url: "https://github.com/ZeroLiam/PAP"
+  type: uni
+  level: Mobile Information Systems
+  show: yes
+  description: >
+     My own implementation for the Phone-as-Pixel project.
+     Started in the Summer Semester 2017 at Bauhaus University for the Mobile Information Systems class.
+  img: "./../assets/images/projects/pap.png"
+  frameworks: "ReactJS, JavaScript, CSS, HTML"
+  keywords: "MIS, Mobile Information Systems, final project, semester project, uni, masters"
