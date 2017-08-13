@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<div class="profile-content">
+  <hr/>
+<div class="cont-profile">
+  {% for page in site.data.profile %}
+    <li class="fact"><i class="fa fa-map-marker fa-1" aria-hidden="true"></i>  {{ page.location }}</li>
+    <li class="fact"><i class="fa fa-twitter fa-1" aria-hidden="true"></i> <a href="{{page.twitter_url}}"> {{ page.twitter }}</a></li>
+    <li class="fact"><i class="fa fa-code-fork fa-1" aria-hidden="true"></i>  {{ page.job }}</li>
+    <li class="fact"><i class="fa fa-github-alt fa-1" aria-hidden="true"></i>   <a href="{{page.github_url}}"> {{ page.github }} </a></li>
+    <li class="fact"><i class="fa fa-graduation-cap  fa-1" aria-hidden="true"></i>  {{ page.currently }}</li>
+    <li class="fact"><i class="fa fa-file-text-o fa-1" aria-hidden="true"></i>  <a href="./../assets/files/resume.pdf"> {{ page.resume }}</a></li>
+  {% endfor %}
+</div>
+  <hr/>
+    <div class="cont-content">{{ content }}</div>
+      <hr/>
+
+</div>

@@ -844,3 +844,28 @@ section {
     .gallery-block .block-thumb .thumb-title {
       position: relative;
       top: 150px; }
+
+.profile-content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  text-align: justify;
+  line-height: 22px;
+  width: 90%; }
+  .profile-content .cont-content {
+    padding: 5px;
+    margin: 0px 2px;
+    width: 90%; }
+  .profile-content .cont-profile {
+    padding: 5px;
+    margin: 0px 20px;
+    width: 90%;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap; }
+    .profile-content .cont-profile li {
+      list-style: none;
+      margin-bottom: 10px;
+      display: inline;
+      width: 35%; }

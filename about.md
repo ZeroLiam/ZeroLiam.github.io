@@ -1,18 +1,13 @@
 ---
-layout: default
-title: About
-permalink: /about/
+layout: profile
+title: About ZeroLiam
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I was born and raised in Dominican Republic. I spend my days between multimedia and software development, and trying to learn more about Human-Computer Interaction.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've jumped to many subjects, to many careers, before turning 27. Starting with Multimedia at Instituto Tecnologico de Las Americas (ITLA) @ 14 years old, then passing a year and a half in Physics, to getting my degree of Computer Programming & Information Systems in Farmingdale State College in New York. Currently I'm in Germany doing my master's in Human-Computer Interaction at the Bauhaus University.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+When I'm not in the computer or in the PS4, I watch football games (English Premier League & UEFA), read about geography & physics, and appreciate photography in films.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to message me in case you want to know more about my projects, what I'm up to, or if I'm happy with the result of the last Liverpool FC match.

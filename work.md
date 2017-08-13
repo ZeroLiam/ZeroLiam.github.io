@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Work"
+title: Works
 permalink: /work
-projectsrc: site.data.projects
 ---
 # {{ page.title }}
 # jobs/internships
