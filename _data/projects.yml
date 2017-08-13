@@ -134,3 +134,28 @@
   img: "./../assets/images/projects/pap.png"
   frameworks: "ReactJS, JavaScript, CSS, HTML"
   keywords: "MIS, Mobile Information Systems, final project, semester project, uni, masters"
+
+- name: Move It!
+  link: /work/moveit
+  github_url: ""
+  type: uni
+  level: Programming Interaction
+  show: yes
+  description: >
+     A game where you can send/receive a cartoon character among mobile devices.
+     Started in the Summer Semester 2017 at Bauhaus University for the Programming Information class.
+  img: "./../assets/images/projects/progint.png"
+  frameworks: "ReactJS, JavaScript, CSS, HTML"
+  keywords: "Programming Interaction, final project, semester project, uni, masters"
+
+- name: Cubo Colores
+  link: /work/cubo
+  github_url: "https://github.com/ZeroLiam/CuboColores"
+  type: uni
+  level: Arduino, Extracurricular
+  show: yes
+  description: >
+        Representation for theory of color. Front-End made in ReactJS, Arduino part made in Colorduino.
+  img: "./../assets/images/projects/cubo.png"
+  frameworks: "Arduino, ReactJS, JavaScript, CSS, HTML"
+  keywords: "Arduino, extracurricular, thesis, final project, semester project, uni, masters"
