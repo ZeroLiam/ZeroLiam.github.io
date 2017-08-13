@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Work"
-permalink: /work/
+permalink: /work
 projectsrc: site.data.projects
 ---
 # {{ page.title }}
