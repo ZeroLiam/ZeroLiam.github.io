@@ -135,3 +135,30 @@ section{
 
   }
 }
+
+
+.contact-form{
+  label{
+    font-family: 'Slabo 13px', serif !important;
+  }
+
+  input[type=text], input[type=email], input[type=submit]{
+    font-family: 'Slabo 13px', serif !important;
+    line-height: 170%;
+    margin-bottom: 6px;
+    padding:2px;
+    border-radius: 4px;
+    box-shadow: none;
+    border: 1px solid #555;
+    width: 250px;
+  }
+
+  textarea {
+    font-family: 'Slabo 13px', serif !important;
+    resize: none;
+    padding:2px;
+    border-radius: 4px;
+    box-shadow: none;
+    border: 1px solid #555;
+  }
+}

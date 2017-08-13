@@ -876,3 +876,22 @@ section {
       margin-bottom: 10px;
       display: inline;
       width: 35%; }
+
+.contact-form label {
+  font-family: 'Slabo 13px', serif !important; }
+.contact-form input[type=text], .contact-form input[type=email], .contact-form input[type=submit] {
+  font-family: 'Slabo 13px', serif !important;
+  line-height: 170%;
+  margin-bottom: 6px;
+  padding: 2px;
+  border-radius: 4px;
+  box-shadow: none;
+  border: 1px solid #555;
+  width: 250px; }
+.contact-form textarea {
+  font-family: 'Slabo 13px', serif !important;
+  resize: none;
+  padding: 2px;
+  border-radius: 4px;
+  box-shadow: none;
+  border: 1px solid #555; }
