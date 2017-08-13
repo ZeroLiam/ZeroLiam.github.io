@@ -84,10 +84,15 @@ section{
     justify-content: center;
     width: 250px;
     height: 200px;
+    background-size: cover;
 
     .thumb-title{
       position: relative;
       top: 150px;
+      background: rgba(0,0,0,0.4);
+      padding: 16px 15px;
+      margin-left: -4px;
+      width: 227px;
     }
   }
 }
@@ -114,6 +119,12 @@ section{
     justify-content: space-around;
     display: flex;
     flex-wrap: wrap;
+
+    .fact{
+      .fa{
+        margin-right: 10px;
+      }
+    }
 
     li{
       list-style:none;

@@ -1,12 +1,12 @@
 ---
 layout: profile
-title: About ZeroLiam
+title: Who's this ZeroLiam? Someone named Liselot
 permalink: /about
 ---
 
 I was born and raised in Dominican Republic. I spend my days between multimedia and software development, and trying to learn more about Human-Computer Interaction.
 
-I've jumped to many subjects, to many careers, before turning 27. Starting with Multimedia at Instituto Tecnologico de Las Americas (ITLA) @ 14 years old, then passing a year and a half in Physics, to getting my degree of Computer Programming & Information Systems in Farmingdale State College in New York. Currently I'm in Germany doing my master's in Human-Computer Interaction at the Bauhaus University.
+I've jumped to many subjects, to many careers, before turning 27. Starting with Multimedia at Instituto Tecnologico de Las Americas (ITLA) @ 14 years old, then passing a year and a half in Physics, to getting my degree of Computer Programming & Information Systems in Farmingdale State College in New York. Currently I'm in Germany doing my master's in Human-Computer Interaction.
 
 When I'm not in the computer or in the PS4, I watch football games (English Premier League & UEFA), read about geography & physics, and appreciate photography in films.
 
