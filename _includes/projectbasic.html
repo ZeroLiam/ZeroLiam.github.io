@@ -1,0 +1,21 @@
+{% for page in include.project %}
+  {% if page.show == true and page.link == include.link %}
+    <div class="project-meta">
+      <div class="p-type-level">
+          <p>Made for <strong>{{page.type}}</strong> on <strong>{{page.level}}</strong></p>
+      </div>
+      <div class="p-frameworks">
+          <p><strong>Frameworks and Tech: </strong> {{page.frameworks}}</p>
+      </div>
+      <div class="p-keywords">
+          <p><strong>Keywords: </strong> {{page.keywords}}</p>
+      </div>
+      <hr/>
+    </div>
+    <h2>Summary</h2>
+    <p>{{page.description}}</p>
+    {% if page.github_url != blank %}
+      <p>Available on GitHub as <a href="{{page.github_url}}">{{page.name}}</a></p>
+    {% endif %}
+  {% endif %}
+{% endfor %}

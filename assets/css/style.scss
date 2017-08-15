@@ -16,16 +16,46 @@ body{
     padding: 0 20px;
 }
 
+code{
+      background-color: rgba(0,0,0,0.4) !important;
+}
+
+blockquote{
+  font-size: 18px;
+  line-height: 25px;
+  padding: 10px 6px 0px 6px;
+}
+
+p, a, span, dt, th, li, h1,h2,h3,h4,h5,h6{
+  strong{
+    color: #ffcc00 !important;
+    font-weight: bolder !important;
+  }
+}
+
 h1,h2,h3,h4,h5,h6{
-  font-family: 'Walter Turncoat', cursive;
+  font-family: 'Walter Turncoat', cursive !important;
 
   a{
     font-family: 'Walter Turncoat', cursive;
   }
 }
 
-p, a, span, dt, th, strong{
-  font-family: 'Slabo 13px', serif;
+p, a, span, dt, th, strong, li{
+  font-family: 'Slabo 13px', serif !important;
+}
+
+div{
+  p, a, span, dt, th, strong{
+    font-family: 'Slabo 13px', serif !important;
+  }
+}
+
+h1,h2,h3,h4,h5,h6{
+  a[href^="#"]{
+    color: #ffffff;
+    font-family: 'Walter Turncoat', cursive !important;
+  }
 }
 
 #header{
@@ -68,6 +98,17 @@ section{
   background: rgba(255,255,255,0.1);
   position: relative;
   padding: 30px;
+
+  h1:first-of-type{
+    color: #ffcc00;
+    font-size: 34px;
+  }
+
+  .p-frameworks p, .p-keywords p{
+    strong{
+      color:#ffcc00;
+    }
+  }
 }
 
 .gallery-block{

@@ -791,13 +791,32 @@ body {
   position: relative;
   padding: 0 20px; }
 
+code {
+  background-color: rgba(0, 0, 0, 0.4) !important; }
+
+blockquote {
+  font-size: 18px;
+  line-height: 25px;
+  padding: 10px 6px 0px 6px; }
+
+p strong, a strong, span strong, dt strong, th strong, li strong, h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
+  color: #ffcc00 !important;
+  font-weight: bolder !important; }
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Walter Turncoat', cursive; }
+  font-family: 'Walter Turncoat', cursive !important; }
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     font-family: 'Walter Turncoat', cursive; }
 
-p, a, span, dt, th, strong {
-  font-family: 'Slabo 13px', serif; }
+p, a, span, dt, th, strong, li {
+  font-family: 'Slabo 13px', serif !important; }
+
+div p, div a, div span, div dt, div th, div strong {
+  font-family: 'Slabo 13px', serif !important; }
+
+h1 a[href^="#"], h2 a[href^="#"], h3 a[href^="#"], h4 a[href^="#"], h5 a[href^="#"], h6 a[href^="#"] {
+  color: #ffffff;
+  font-family: 'Walter Turncoat', cursive !important; }
 
 #header nav {
   background: transparent !important; }
@@ -827,6 +846,11 @@ section {
   background: rgba(255, 255, 255, 0.1);
   position: relative;
   padding: 30px; }
+  .contentPortfolioWrap h1:first-of-type {
+    color: #ffcc00;
+    font-size: 34px; }
+  .contentPortfolioWrap .p-frameworks p strong, .contentPortfolioWrap .p-keywords p strong {
+    color: #ffcc00; }
 
 .gallery-block {
   display: flex;

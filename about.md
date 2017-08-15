@@ -3,6 +3,7 @@ layout: profile
 title: Who's this ZeroLiam? Someone named Liselot
 permalink: /about
 ---
+> I'm either coding or watching soccer, sometimes both. I take naps once in a while. - Liselot
 
 I was born and raised in Dominican Republic. I spend my days between multimedia and software development, and trying to learn more about Human-Computer Interaction.
 
