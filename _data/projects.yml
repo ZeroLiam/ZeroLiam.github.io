@@ -1,5 +1,5 @@
 - name: Dreamnotes Loader
-  link: /work/dreamnotes
+  link: /projects/dreamnotes
   github_url: ""
   type: work
   level: internship
@@ -12,7 +12,7 @@
   keywords: "Motion Graphics, past jobs, Madison Square Garden, MSG, Gardenvision"
 
 - name: Indy Tix (New York Knicks) 2014
-  link: /work/indytix2014
+  link: /projects/indytix2014
   github_url: ""
   type: work
   level: internship
@@ -25,7 +25,7 @@
   keywords: "Motion Graphics, Design, past jobs, Madison Square Garden, MSG, Gardenvision"
 
 - name: Game Ball Delivery (NY Knicks)
-  link: /work/gameball2014
+  link: /projects/gameball2014
   github_url: ""
   type: work
   level: internship
@@ -37,7 +37,7 @@
   keywords: "Motion Graphics, Design, past jobs, Madison Square Garden, MSG, Gardenvision"
 
 - name: Photo-Comp (NY Liberty) 2014
-  link: /work/photocomp-nyliberty2014
+  link: /projects/photocomp-nyliberty2014
   github_url: ""
   type: work
   level: internship
@@ -50,7 +50,7 @@
   keywords: "Design, Photo-Comp, past jobs, Madison Square Garden, MSG, Gardenvision"
 
 - name: Publishers Management
-  link: /work/pubmgtm
+  link: /projects/pubmgtm
   github_url: ""
   type: work
   level: Junior Developer
@@ -62,7 +62,7 @@
   keywords: "Front-End Development, past jobs, Padsquad"
 
 - name: Chameleon Shoes
-  link: /work/chameleon
+  link: /projects/chameleon
   github_url: ""
   type: uni
   level: Humanities
@@ -74,7 +74,7 @@
   keywords: "Motion Graphics, Design, uni, undergrad, bachelors, random"
 
 - name: bookSelf
-  link: /work/bookself
+  link: /projects/bookself
   github_url: ""
   type: uni
   level: Senior Project
@@ -87,7 +87,7 @@
   keywords: "UX/UI Design, uni, undergrad, bachelors, thesis"
 
 - name: Hello Android
-  link: /work/mis-1-helloandroid
+  link: /projects/mis-1-helloandroid
   github_url: "https://github.com/ZeroLiam/mis-2017-exercise-1-helloandroid/tree/ramirez-sakib-ex1"
   type: uni
   level: Mobile Information Systems
@@ -99,7 +99,7 @@
   keywords: "MIS, Mobile Information Systems, homework project, homework, homework 1, uni, masters"
 
 - name: Maps and Polygons
-  link: /work/mis-2-mapsandpolygons
+  link: /projects/mis-2-mapsandpolygons
   github_url: "https://github.com/TeamFlamingCorgis/mis-2017-exercise-2-maps-polygons/tree/ramirez-sakib-ex2"
   type: uni
   level: Mobile Information Systems
@@ -111,7 +111,7 @@
   keywords: "MIS, Mobile Information Systems, homework project, homework, homework 2, uni, masters"
 
 - name: Mution (Sensors Context)
-  link: /work/mis-3-sensorscontext
+  link: /projects/mis-3-sensorscontext
   github_url: "https://github.com/TeamFlamingCorgis/mis-2017-exercise-3-sensors-context/tree/ramirez-sakib-ex3"
   type: uni
   level: Mobile Information Systems
@@ -123,7 +123,7 @@
   keywords: "MIS, Mobile Information Systems, homework project, homework, homework 3, uni, masters"
 
 - name: Phone As Pixel
-  link: /work/pap
+  link: /projects/pap
   github_url: "https://github.com/ZeroLiam/PAP"
   type: uni
   level: Mobile Information Systems
@@ -136,7 +136,7 @@
   keywords: "MIS, Mobile Information Systems, final project, semester project, uni, masters"
 
 - name: Move It!
-  link: /work/moveit
+  link: /projects/moveit
   github_url: ""
   type: uni
   level: Programming Interaction
@@ -149,7 +149,7 @@
   keywords: "Programming Interaction, final project, semester project, uni, masters"
 
 - name: Cubo Colores
-  link: /work/cubo
+  link: /projects/cubo
   github_url: "https://github.com/ZeroLiam/CuboColores"
   type: uni
   level: Arduino, Extracurricular
